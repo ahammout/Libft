@@ -1,6 +1,6 @@
 
 # LIBFT 
-`
+
 ## REVIEW:
 
 - Libft it's a library that countains some of the standard C library functions plus some additional functions.
