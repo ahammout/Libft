@@ -1,5 +1,5 @@
 
-# --------------------------------------------- LIBFT ---------------------------------------------------
+# ----------------------------------------- LIBFT -----------------------------------------
 
 ## REVIEW:
 
@@ -37,7 +37,7 @@
 
 ## Usage
 
-- Compile & generate the archieve file:
+- Compile & generate archieve file:
     ``` Make ```
 
 - Clean the object files:
